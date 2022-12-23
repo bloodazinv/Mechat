@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50541037854",
+    "firebase_url": "https://mechat-4ee30-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mechat-4ee30",
+    "storage_bucket": "mechat-4ee30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50541037854:android:d4c909f0c0d1610157e10f",
+        "android_client_info": {
+          "package_name": "com.jane.mechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50541037854-ou1ctus7fgi1hacu1p8pdokuiokqmadl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQyh7ZIWdetfS5pNzz3zTwOG37JqgLsKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50541037854-ou1ctus7fgi1hacu1p8pdokuiokqmadl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
